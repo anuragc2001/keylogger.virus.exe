@@ -1,6 +1,6 @@
 # [Writing a Keylogger in Python from Scratch]
 # keylogger.virus.exe
-A simple python implementation of recording keystrokes typed using a physical keyboard.
+A simple python implementation of recording keystrokes from a physical keyboard.
 
 ## Tech Stack
 
